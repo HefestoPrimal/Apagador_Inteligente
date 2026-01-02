@@ -26,10 +26,10 @@ En esta rama del proyecto se encuentra la primera parte para comprenderlo en su 
 ![Pinout ESP32-C3 Supermini](images/ESP32-C3-Super-Mini-pinout-low.jpg)
 
 #### Pinout RTC DS3231
-![Pinout RTC DS3231](images\RTC_DS3231.jpg)
+![Pinout RTC DS3231](images/RTC_DS3231.jpg)
 
 #### Pinout Display OLED
-![Pinout Display OLED](images\Display_OLED_I2C.jpg)
+![Pinout Display OLED](images/Display_OLED_I2C.jpg)
 
 ## Instalación
 Clona el repositorio público en la carpeta en que desees guardarlo para su uso y prueba, una vez terminado el proceso compila el proyecto y cárgalo a tu ESP32 con los pines especificados y los componentes conectados y alimentados (Si tienes otro modelo de ESP32 distinto al del proyecto especifícalo en *"platformio.ini"* y modifica los pines si así lo requieren)
