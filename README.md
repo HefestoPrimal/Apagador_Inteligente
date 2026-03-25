@@ -40,5 +40,14 @@ Una vez cargado el programa después de unos segundos te debe aparecer la fecha 
 ## Contribución
 Para contribuir en el proyecto vean los vídeos del canal para una mayor comprensión y coloque sus sugerencias en los comentarios del [vídeo de YouTube](https://youtu.be/rIrncidcMnk) para tomar en cuenta la mejora. A su vez se es libre de crear un fork del proyecto y hacer sus propias modificaciones. Por favor, mantenga el nombre del autor y el repositorio original en los comentarios de su código.
 
+## Enlaces
+- [Portafolio](https://github.com/HefestoPrimal/Portafolio)
+- [Linkedin](https://www.linkedin.com/in/angel-diaz-mexatronica/)
+- [YouTube](https://youtube.com/mexatronica99)
+- [Facebook](https://www.facebook.com/mexatronica99)
+- [Instagram](https://www.instagram.com/mexatronica99/)
+- [Pinterest](https://mx.pinterest.com/mexatronica99/)
+- [Tik Tok](https://www.tiktok.com/@mexatronica99)
+
 #### ¡Mucho éxito! :D
 ___
