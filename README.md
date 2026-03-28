@@ -30,25 +30,25 @@ En esta rama del proyecto se encuentra la programación necesaria para realizar 
 **GPIO3** | ENC_CLK | Pin de reloj Encoder
 
 **Pinout ESP32-C3 Supermini**
-<p alig="center">
+<p align="center">
     <img src="docs/images/ESP32-C3-Super-Mini-pinout-low.jpg" alt="Pinout ESP32-C3 Supermini"
     width="50%">
 </p>
 
 **Pinout RTC DS3231**
-<p alig="center">
+<p align="center">
     <img src="docs/images/RTC_DS3231.jpg" alt="Pinout RTC DS3231"
     width="50%">
 </p>
 
 **Pinout Display OLED**
-<p alig="center">
+<p align="center">
     <img src="docs/images/Display_OLED_I2C.jpg" alt="Pinout Display OLED"
     width="50%">
 </p>
 
 **Pinout Encoder**
-<p alig="center">
+<p align="center">
     <img src="docs/images/Pinout Encoder.jpg" alt="Pinout Encoder"
     width="50%">
 </p>
