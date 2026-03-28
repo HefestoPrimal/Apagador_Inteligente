@@ -1,0 +1,3 @@
+# Tools/
+
+Una carpeta pensada para complementos indirectos para el código, no necesarios per utiles al momento de realizar el trabajo, por ejemplo códigos de python para procesamiento de datos, compresión, conversión de archivos, etc...
